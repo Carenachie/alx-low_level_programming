@@ -60,5 +60,8 @@ All of the following files are programs written in C:
 		
 | `104-fibonacci.c` | Finds and prints the first 98 Fibonacci numbers |
 
+<<<<<<< HEAD
+=======
 
 
+>>>>>>> 3b92541f370a9c39daaa9398b3a2a0425b25274d
